@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491635614 source:/mnt/4666515B66514CB5/Coding/CPP Projects/C/factorial vs power/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

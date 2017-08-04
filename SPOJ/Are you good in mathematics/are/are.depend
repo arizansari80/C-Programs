@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490898863 source:/mnt/4666515B66514CB5/Coding/Splime/Are you good in mathematics/are/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

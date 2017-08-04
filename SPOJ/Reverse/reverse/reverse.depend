@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490712422 source:/mnt/4666515B66514CB5/Coding/Splime/Reverse/reverse/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
